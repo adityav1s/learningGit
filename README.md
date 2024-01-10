@@ -1,0 +1,2 @@
+# learningGit
+first git thingy
